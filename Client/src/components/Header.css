@@ -1,0 +1,9 @@
+.header{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(8, 104, 173);
+    text-align: center;
+    padding: 0.5vw;
+    white-space: nowrap
+}
